@@ -74,23 +74,23 @@ Implemented using scikit-learn.
 
 ### 🔹 Random Forest
 
-  Accuracy    0.9995
-  Precision   0.9573
-  Recall      0.7568
-  F1 Score    0.8453
-  ROC-AUC     0.9307
-  MCC         0.8509
+  Accuracy- 0.9995, 
+  Precision- 0.9573
+  Recall- 0.7568
+  F1 Score- 0.8453
+  ROC-AUC- 0.9307
+  MCC- 0.8509
 
 ------------------------------------------------------------------------
 
 ### 🔹 AdaBoost
 
-  Accuracy    0.9990
-  Precision   0.7353
-  Recall      0.6757
-  F1 Score    0.7042
-  ROC-AUC     0.9675
-  MCC         0.7044
+  Accuracy- 0.9990
+  Precision- 0.7353
+  Recall- 0.6757
+  F1 Score- 0.7042
+  ROC-AUC- 0.9675
+  MCC- 0.7044
 
 ------------------------------------------------------------------------
 
