@@ -113,11 +113,15 @@ prediction = model.predict(X_sample)
 
 Install dependencies:
 
+``` python
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
+```
 
 Run:
 
+``` python
 python credit_card_fraud_detection.py
+```
 
 Or open the notebook:
 
@@ -152,4 +156,4 @@ Credit_Card_Fraud_Detection.ipynb
 
 ------------------------------------------------------------------------
 
-⭐ If you found this useful, consider giving the repository a star!
+### ⭐ If you found this useful, consider giving the repository a star!
