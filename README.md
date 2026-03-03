@@ -150,14 +150,14 @@ Credit_Card_Fraud_Detection.ipynb
 
 ## 👨‍💻 Author
 
-### Jatin Kumar
-### Santhakumar Parivallal
-### Muhammad zahid
-### Vineel bokkina
+### 1. Jatin Kumar
+### 2. Santhakumar Parivallal
+### 3. Muhammad zahid
+### 4. Vineel bokkina
 
 ---
 
-### Machine Learning Academic Project
+### -Machine Learning Academic Project
 
 ------------------------------------------------------------------------
 
