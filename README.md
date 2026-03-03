@@ -152,6 +152,11 @@ Credit_Card_Fraud_Detection.ipynb
 
 ### Jatin Kumar
 ### Santhakumar Parivallal
+### Muhammad zahid
+### Vineel bokkina
+
+---
+
 ### Machine Learning Academic Project
 
 ------------------------------------------------------------------------
