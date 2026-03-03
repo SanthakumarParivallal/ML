@@ -21,10 +21,10 @@ the methodology for fair comparison.
 
 ## 📊 Dataset Information
 
--   Source: Kaggle -- European Cardholders Dataset\
--   Transactions: 284,807\
--   Fraud Cases: 492\
--   Fraud Percentage: 0.172%\
+-   Source: Kaggle -- European Cardholders Dataset
+-   Transactions: 284,807
+-   Fraud Cases: 492
+-   Fraud Percentage: 0.172%
 -   Highly Imbalanced Dataset
 
 ### Features:
@@ -74,8 +74,6 @@ Implemented using scikit-learn.
 
 ### 🔹 Random Forest
 
-  Metric      Value
-  ----------- --------
   Accuracy    0.9995
   Precision   0.9573
   Recall      0.7568
@@ -87,8 +85,6 @@ Implemented using scikit-learn.
 
 ### 🔹 AdaBoost
 
-  Metric      Value
-  ----------- --------
   Accuracy    0.9990
   Precision   0.7353
   Recall      0.6757
@@ -100,7 +96,7 @@ Implemented using scikit-learn.
 
 ## 💾 Saved Models
 
-saved_models/random_forest_fraud_model.pkl\
+saved_models/random_forest_fraud_model.pkl
 saved_models/adaboost_fraud_model.pkl
 
 Load example:
